@@ -1,0 +1,4 @@
+streamlit
+boxsdk
+python-dotenv
+cryptography
